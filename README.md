@@ -875,3 +875,6 @@ Dagger2ではScopeの定義が必須ではない. Scopeでアノテートしな�
 SubComponentやdependenciesでScopeを宣言しないProviderを作成した場合, 通常通りそのComponent/Moduleにファクトリがつく. 
 
 以上. 
+
+
+
